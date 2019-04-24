@@ -38,4 +38,4 @@ Si vous avez un compte GitHub, je vous conseille directement de fork le dépôt.
 
 Il existe 3 versions de ce site, et chaque version doit être envoyée à différentes joueuses et différents joueurs.
 
-Celui-ci est destiné à la personne jouant Jean-Kévin, car Jean-Kévin a une très mauvaise mémoire des noms de son entourage.
+Celui-ci est destiné à la personne jouant Jean-Kévin, car Jean-Kévin a une très mauvaise mémoire des noms de son entourage. Pour les autres joueurs, regardez la même section sur cette page : https://github.com/sixelasacul/SerialCie#message-important-aux-organisateurs.
